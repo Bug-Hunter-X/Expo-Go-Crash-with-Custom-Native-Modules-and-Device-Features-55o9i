@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Go app to test an app that uses a custom native module.  The app crashes or behaves unexpectedly when the native module attempts to access certain device features, such as the camera or GPS. This issue is often intermittent and difficult to debug.
